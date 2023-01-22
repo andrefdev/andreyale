@@ -1,0 +1,48 @@
+#cabecera
+{
+    text-align: center;
+    background-color: #000000;
+    padding: 30px;
+}
+#slider 
+{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#slider img
+{
+    margin-top: 5%;
+    height: fit-content;
+}
+
+.swiper
+{
+    width: 100%;
+    height: fit-content;
+}
+
+.swiper-slide img
+{
+    width: 50%;
+}
+
+footer
+{
+    background-color: #000000;
+    padding: 3%;
+}
+
+footer h3
+{
+    margin-left: -2%;
+
+}
+
+.derecha
+{
+    margin-left: 70%;
+    position: relative;
+}
